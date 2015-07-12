@@ -8,5 +8,5 @@ The script is useful for people doing interview preparation using [geeksforgeeks
 2. When list of questions is opened in any category, it strikes through questions which are done.
 
 # Installation
- 1. Download tamper monkey for chrome.
- 2. Add the script as a new tampermonkey script and enjoy :)
+ 1. Download [tamper monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for chrome.
+ 2. [Install] (https://openuserjs.org/scripts/codelibra/GeeksForGeeks).
