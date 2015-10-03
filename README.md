@@ -1,4 +1,5 @@
-# Geeks Helper
+[![Build Status](https://travis-ci.org/codelibra/geekshelper.svg?branch=master)](https://travis-ci.org/codelibra/geekshelper)
+# Geeks Helper 
 
 #Introduction
 The script is useful for people doing interview preparation using [geeksforgeeks.org](http://www.geeksforgeeks.org/). It will help them in figuring out the questions that they have finished reading and understanding, and which they are yet to do.
